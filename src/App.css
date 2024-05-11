@@ -41,3 +41,9 @@ h2 {
   text-transform: uppercase;
   color: red;
 }
+
+h1 {
+  font-size: 20px;
+  font-weight: bold;
+  color: blue;
+}
